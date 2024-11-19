@@ -13,7 +13,7 @@ class ProductSeeder extends Seeder
             [
                 'name' => 'Producto 1',
                 'sub_information' => 'Información 1',
-                'img_url' => 'https://example.com/image1.jpg',
+                'img_url' => 'https://picsum.photos/200/300',
                 'price' => 100.00,
                 'stock' => 10,
                 'amount' => 1,
@@ -21,7 +21,7 @@ class ProductSeeder extends Seeder
             [
                 'name' => 'Producto 2',
                 'sub_information' => 'Información 2',
-                'img_url' => 'https://example.com/image2.jpg',
+                'img_url' => 'https://picsum.photos/200/300',
                 'price' => 200.00,
                 'stock' => 5,
                 'amount' => 1,
@@ -29,7 +29,7 @@ class ProductSeeder extends Seeder
             [
                 'name' => 'Producto 3',
                 'sub_information' => 'Información 1',
-                'img_url' => 'https://example.com/image1.jpg',
+                'img_url' => 'https://picsum.photos/200/300',
                 'price' => 100.00,
                 'stock' => 10,
                 'amount' => 1,
@@ -37,7 +37,7 @@ class ProductSeeder extends Seeder
             [
                 'name' => 'Producto 4',
                 'sub_information' => 'Información 2',
-                'img_url' => 'https://example.com/image2.jpg',
+                'img_url' => 'https://picsum.photos/200/300',
                 'price' => 200.00,
                 'stock' => 5,
                 'amount' => 1,
@@ -45,7 +45,7 @@ class ProductSeeder extends Seeder
             [
                 'name' => 'Producto 5',
                 'sub_information' => 'Información 1',
-                'img_url' => 'https://example.com/image1.jpg',
+                'img_url' => 'https://picsum.photos/200/300',
                 'price' => 100.00,
                 'stock' => 10,
                 'amount' => 1,
@@ -53,7 +53,7 @@ class ProductSeeder extends Seeder
             [
                 'name' => 'Producto 6',
                 'sub_information' => 'Información 2',
-                'img_url' => 'https://example.com/image2.jpg',
+                'img_url' => 'https://picsum.photos/200/300',
                 'price' => 200.00,
                 'stock' => 5,
                 'amount' => 1,
